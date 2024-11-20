@@ -6,6 +6,7 @@
 - run Kafka Control-center on http://localhost:9021/clusters
 - run Apache Druid console on http://localhost:8888/ 
 - Architecture is in the about directory 
+- Flow definition file with external services: mi-c3_etl.json
 
 
 
